@@ -22,5 +22,10 @@ namespace test0506_GitLocal
             //.........
             button1.Text = "OK";
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
